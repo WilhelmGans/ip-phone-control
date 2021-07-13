@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneDirectory>
+	<Title>Гостинница</Title>
+	<Prompt>Гостиница</Prompt>
+	<DirectoryEntry>
+		<Name>Служба бронирования</Name>
+		<Telephone>3741</Telephone>
+		<Mobile>998962</Mobile>
+		<Other>999</Other>
+		<Ring>4</Ring>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Респшн</Name>
+		<Telephone>3742</Telephone>
+		<Mobile>9989621104868</Mobile>
+		<Other>3743</Other>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Номерной фонд</Name>
+		<Telephone>3744</Telephone>
+		<Mobile>99896200000</Mobile>
+		<Other>3744</Other>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Холл</Name>
+		<Telephone>3745</Telephone>
+		<Mobile>998962000000</Mobile>
+		<Other>3745</Other>
+	</DirectoryEntry>
+</CiscoIPPhoneDirectory>
